@@ -1,3 +1,4 @@
+<h1>Contador</h1>
 <p align="left">
    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gabriel4420/Contador">
 
@@ -7,8 +8,6 @@
 
   <br>
 </p>
-
-<h1>Contador</h1>
 
 <p align="center">
   <img alt="Gif da Aplicação" src="images/Home Page.png" />
