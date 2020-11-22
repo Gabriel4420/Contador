@@ -30,12 +30,12 @@
 
 # Indice
 
-- :rocket: [Sobre o Projeto](#rocket-sobre-o-projeto)
+-  &#x1F55A; [Sobre o Projeto](#rocket-sobre-o-projeto)
 - 👨‍💻️ [Tecnogias utilizadas](#%EF%B8%8F-tecnogias-utilizadas)
 - 📦️ [Como utilizar o projeto](#%EF%B8%8F-como-utilizar-o-projeto)
 ---
 
-## :rocket: Sobre o Projeto
+##  &#x1F55A; Sobre o Projeto
 
 <p align="center">
   Um simples projeto de estudo sobre : <strong>Column</strong>, <strong>Text</strong>, <strong>FlatButtons</strong>, <strong>Rows</strong>, <strong>Hierach</strong>, <strong>Image<strong>, <strong>Padding</strong>, <strong>Stack</strong>, <strong>Stateless & Statefull</strong>
