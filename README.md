@@ -1,10 +1,3 @@
-<style>
-p{
-  margin-top:-10px;
-}
-
-</style>
-
 <h1>Contador </h1>
 <p align="right" >
    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gabriel4420/Contador">
