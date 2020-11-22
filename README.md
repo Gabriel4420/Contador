@@ -11,9 +11,9 @@
 <p align="center">
   <img alt="Gif da Aplicação" src="images/Home Page.png" />
 </p>
-
-Um simples projeto de estudo sobre : Column, Text, FlatButtons, Rows, Hierach, Image, Padding, Stack, Stateless & Statefull
-
+<p align="center">
+  Um simples projeto de estudo sobre : <strong>Column</strong>, <strong>Text</strong>, <strong>FlatButtons</strong>, <strong>Rows</strong>, <strong>Hierach</strong>, <strong>Image<strong>, <strong>Padding</strong>, <strong>Stack</strong>, <strong>Stateless & Statefull</strong>
+</p>
 ## Sobre o projeto
 
 Este projeto foi feito integralmente em flutter, utilizando o básico sobre dart.
@@ -23,6 +23,6 @@ Este projeto foi feito integralmente em flutter, utilizando o básico sobre dart
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-### Para ver a documentação completa do flutter, entre em:
+#### Para ver a documentação completa do flutter, entre em:
 
 - [online documentation](https://flutter.dev/docs)
