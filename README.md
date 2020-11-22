@@ -1,5 +1,5 @@
-<h1>Contador</h1>
-<p align="right">
+<h1>Contador </h1>
+<p align="right" style="margin-top: 10px;">
    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gabriel4420/Contador">
 
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gabriel4420/Contador?logo=html">
