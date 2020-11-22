@@ -10,6 +10,9 @@
   <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/gabriel4420/Contador?color=green">
 
   <br>
+   <a href="https://www.codacy.com/manual/Gabriel4420/Contador?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Gabriel4420/Contador&amp;utm_campaign=Badge_Grade">
+    <img src="https://app.codacy.com/project/badge/Grade/6dd6b46abeb14e99935a2b9ac5c6ede2"/>
+  </a>
 
   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/last-commit/Gabriel4420/Contador">
 
