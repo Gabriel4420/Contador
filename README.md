@@ -15,6 +15,7 @@
 <p align="center">
   Um simples projeto de estudo sobre : <strong>Column</strong>, <strong>Text</strong>, <strong>FlatButtons</strong>, <strong>Rows</strong>, <strong>Hierach</strong>, <strong>Image<strong>, <strong>Padding</strong>, <strong>Stack</strong>, <strong>Stateless & Statefull</strong>
 </p>
+</br>
 
 ## Sobre o projeto
 
